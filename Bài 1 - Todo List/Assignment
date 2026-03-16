@@ -1,0 +1,22 @@
+Bài tập 1: Todo List (Cơ bản nhất)
+Yêu cầu:
+Tạo ứng dụng quản lý công việc.
+Chức năng:
+    - Nhập công việc vào input
+    - Nhấn Add để thêm vào danh sách
+    - Hiển thị danh sách công việc
+    - Có nút Delete để xoá
+    - Có thể đánh dấu hoàn thành
+
+Gợi ý UI:
+[ Nhập công việc... ]  [Add]
+
+- Học Javascript      ✔  ❌
+- Làm bài tập DOM     ✔  ❌
+Kiến thức luyện:
+    - querySelector
+    - createElement
+    - appendChild
+    - addEventListener
+    - classList.toggle
+
